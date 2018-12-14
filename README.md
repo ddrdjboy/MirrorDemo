@@ -8,4 +8,4 @@ GCDTimer *gcdTimer = [[GCDTimer alloc] initWithTimeInterval:10 handler:^(dispatc
         }];
 [gcdTimer resume];
 ```
-### Let me know if any issue. Thank you.
+##### Let me know if any issue. Enjoy.
