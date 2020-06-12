@@ -9,3 +9,4 @@ GCDTimer *gcdTimer = [[GCDTimer alloc] initWithTimeInterval:10.0 handler:^(dispa
 [gcdTimer resume];
 ```
 ##### Let me know if any issue. Enjoy.
+123
